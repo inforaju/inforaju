@@ -17,7 +17,7 @@ I am a passionate and skilled designing and devloping in the field. I have a str
 src="https://img.shields.io/github/followers/inforaju?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a><a href="https://www.x.com/_rajuofficial" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/_rajuofficial?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
 /></a>
-<br>![](https://komarev.com/ghpvc/?username=inforaju)
+<br>![](https://komarev.com/ghpvc/?username=inforaju&color=green)
 
 ### Skills
 
