@@ -12,6 +12,8 @@ I am a passionate and skilled designing and devloping in the field. I have a str
 * 🤝  I'm open to collaborating on App & Web based Project
 * ⚡  Whatever work I do , I do it with my best
 
+![](https://komarev.com/ghpvc/?username=inforaju)
+
 <a href="https://www.github.com/inforaju" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/inforaju?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a><a href="https://www.x.com/_rajuofficial" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/_rajuofficial?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
