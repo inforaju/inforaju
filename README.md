@@ -2,7 +2,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Raju Sarkar
 ===================================================================================================================================
 
-Software Engineer
+                                                  Software Engineer
 -----------------
 
 I am a passionate and skilled software engineer with 1 years of experience in the field of software development. I have a strong background in designing and implementing complex software systems, and I am dedicated to creating innovative solutions that solve real-world problems.
