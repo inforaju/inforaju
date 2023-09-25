@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Devloper & Designer
 -----------------
 
-I am a passionate and skilled software engineer with 1 years of experience in the field of software development. I have a strong background in designing and implementing complex software systems, and I am dedicated to creating innovative solutions that solve real-world problems.
+I am a passionate and skilled designing and devloping in the field. I have a strong background in designing and implementing complex software systems, and I am dedicated to creating innovative solutions that solve real-world problems.
 
 * 🌍  I'm based in Siliguri
 * ✉️  You can contact me at [nakulsarkar51@gmail.com](mailto:nakulsarkar51@gmail.com)
