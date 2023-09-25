@@ -8,7 +8,7 @@ I am a passionate and skilled designing and devloping in the field. I have a str
 
 * 🌍  I'm based in Siliguri
 * ✉️  You can contact me at [nakulsarkar51@gmail.com](mailto:nakulsarkar51@gmail.com)
-* 🧠  I'm learning Artificial Intelligence, Machine Learning, Bigdata
+* 🧠  I'm learning Artificial Intelligence, Machine Learning, Bigdata & DSA in Leetcode
 * 🤝  I'm open to collaborating on App & Web based Project
 * ⚡  Whatever work I do , I do it with my best
 
@@ -18,6 +18,7 @@ src="https://img.shields.io/github/followers/inforaju?logo=github&style=for-the-
 src="https://img.shields.io/twitter/follow/_rajuofficial?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
 /></a>
 <br>![](https://komarev.com/ghpvc/?username=inforaju&color=green)
+
 
 ### Skills
 
