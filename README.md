@@ -1,4 +1,4 @@
-![logo](https://github.com/inforaju/inforaju/blob/main/Raju%20Sarkar%20(1).png)
+![logo]([https://github.com/inforaju/inforaju/blob/main/Raju%20Sarkar%20(1).png](https://github.com/inforaju/inforaju/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png))
 # Welcome to [Raju Sarkar's](https://rajusarkar.me/) profile! <a href="https://www.aswinbarath.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 =======================================================
 
